@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanthedandy
 - 👀 I’m interested in ... Game Development and Web Development
-- 🌱 I’m currently learning ... C# with my eyes on unity, and also working on the Odin Project
+- 🌱 I’m currently working with unity
 - 💞️ I’m looking to collaborate on ...Anything :-)
 - 📫 How to reach me ...ryanxaiken@gmail.com
 
