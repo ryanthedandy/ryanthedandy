@@ -3,9 +3,6 @@ Ryan Aiken
 Skills:
 C, C#, Python, JS, HTML, CSS
 
-Projects:
-Project W
-
 Contact Me:
 ryanxaiken@gmail.com
 
